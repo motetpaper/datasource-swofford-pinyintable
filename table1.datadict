@@ -1,0 +1,23 @@
+Data Dictionary for `table1.txt`
+
+This data set was extracted from Mark Swofford's pinyin.info web site.
+
+You can find the source comparison table here:
+https://pinyin.info/romanization/compare/hanyu.html
+
+It was last revised on April 15, 2004.
+
+There are 410 phonemes in this table; that is, there are 410 rows.
+There are 10 fields (columns) in this table.
+
+Data Fields:
+1 Zhuyin 雅禮
+2 Wade-Giles 雅禮
+3 MPS2 注音二式
+4 Yale 雅禮
+5 Tongyong Pinyin 國語羅馬字
+6 Hanyu Pinyin 漢語拼音
+7 Gwoyeu Romatzyh 國語羅馬字 Tone 1
+8 Gwoyeu Romatzyh 國語羅馬字Tone 2
+9 Gwoyeu Romatzyh 國語羅馬字Tone 3
+10 Gwoyeu Romatzyh 國語羅馬字 Tone 4
