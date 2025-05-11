@@ -11,11 +11,11 @@ There are 410 phonemes in this table; that is, there are 410 rows.
 There are 10 fields (columns) in this table.
 
 Data Fields:
-1 Zhuyin 雅禮
-2 Wade-Giles 雅禮
+1 Zhuyin 注音
+2 Wade-Giles 韋式
 3 MPS2 注音二式
 4 Yale 雅禮
-5 Tongyong Pinyin 國語羅馬字
+5 Tongyong Pinyin 通用拼音
 6 Hanyu Pinyin 漢語拼音
 7 Gwoyeu Romatzyh 國語羅馬字 Tone 1
 8 Gwoyeu Romatzyh 國語羅馬字Tone 2
